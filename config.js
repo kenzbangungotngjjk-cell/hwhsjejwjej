@@ -1,0 +1,5 @@
+module.exports = {
+  BOT_TOKEN: '8420760390:AAGtL9WEudzISDb6CNcKv7HV2PqK-pwtrZI',
+  ADMIN_ID: 7520259263,
+  ADMIN_SECRET: 'mepro'
+};
